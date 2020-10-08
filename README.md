@@ -1,8 +1,8 @@
 I am a graduate mobile and web developer
 
-- 🔭 I’m currently working on a Flutter project with a Node backend
+- 🔭 I’m currently working on a React project with a Node backend
 
-- 🌱 I’m currently learning Azure for Developers
+- 🌱 I’m currently learning about payment system integrations
 
 - 👯 I’m looking to collaborate on Node projects
 
