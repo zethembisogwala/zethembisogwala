@@ -1,4 +1,4 @@
-I am a graduate mobile and web developer working for Runninghill Software Developement.
+I am a graduate mobile and web developer
 
 - 🔭 I’m currently working on a Flutter project with a Node backend
 
